@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Vanshika, and I am a Computer Scienece student interested in Java and enthusiastic about AI and Cybersecurity.
+
+- 🔭 I’m currently working on my Java projects and DSA
+- 🌱 I’m currently learning Web development
+- 👯 I’m also interested in Research, Cybersecurity and AI
 
 <!--
 **Vanshika-Srivastava79/Vanshika-Srivastava79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
