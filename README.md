@@ -1,11 +1,15 @@
-## Hi there 👋
+## Hey, I am Vanshika 👋
 
-My name is Vanshika, and I am a Computer Scienece student interested in Java and enthusiastic about AI and Cybersecurity.
+I'm a CS undergraduate working at the intersection of logic and creativity, majorly around the Java stack.
+I'm currently shaping a few in-progress projects while steadily strengthening my problem-solving skills through DSA.
 
-- 🔭 I’m currently working on my Java projects and DSA
-- 🌱 I’m currently learning Web development
-- 👯 I’m also interested in Research, Cybersecurity and AI
+## What I'm spending Time On 👩‍💻
 
+<ul>
+  <li>Development & Java Stack</li>
+  <li>Exploring AI & Machine Learning</li>
+  <li>Improving DSA and core problem-solving skills</li>
+</ul>
 <!--
 **Vanshika-Srivastava79/Vanshika-Srivastava79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
