@@ -1,6 +1,8 @@
 
 ## Hey, I'm Vanshika!!
-
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Vanshika-Srivastava79&color=7AA2F7&style=flat" alt="Profile views" />
+</p>
 I'm a Computer Science student currently working as a Full Stack Developer Intern.
 I enjoy building useful software, understanding how things work under the hood, and exploring how AI can solve real-world problems.
 
@@ -16,7 +18,6 @@ I enjoy building useful software, understanding how things work under the hood, 
 Currently exploring system design, LLM applications, and ways to build more reliable software.
 
 ---
-
 ## GitHub Activity
 
 <p align="center">
